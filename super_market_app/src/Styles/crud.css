@@ -1,0 +1,23 @@
+.MyData{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.MyData input{
+    width: 80%;
+    font-size: medium;
+    padding-left: 30px;
+    margin: 5px; 
+}
+
+.MyData button{
+    width: 200px;
+    height: 35px;
+    margin-top: 15px;
+}
+
+.MyData button :hover{
+   cursor: pointer;
+}
